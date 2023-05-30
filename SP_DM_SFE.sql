@@ -6,7 +6,7 @@
 -- Date         Modifier           Comment
 -- ------------ ------------------ ----------------------------------------------------
 -- 2023-05-25   Adenzon             Initial version
---
+-- 2023-05-30   Adenzon             Adding new condition
 --************************************************************************************
 create or replace view RPOD_DATA_MART.STUDENT_BIO_INFO(
 	STUDENT_ID,
