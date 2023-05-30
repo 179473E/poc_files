@@ -1,3 +1,4 @@
+----adding new logic
 CREATE TABLE IF NOT EXISTS <future_schema_name_here>.EXPORT_JOB_INFO(
 RTYPE TEXT,
 RCMD TEXT,
